@@ -1,0 +1,4 @@
+This program prints out a Sierpinski Diamond on the terminal
+It takes 2 inputs
+  1st: a height of ther diamond
+  2end: the fractal level
